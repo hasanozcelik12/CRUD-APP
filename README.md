@@ -50,3 +50,5 @@ inputu temizleyin (value unutulmasın)
 Note'ların Listeleneceği bir ul  oluşturun
 
 notes dizisindeki her bir eleman içerini li basın ve note'un değerini girin (map)
+
+![](scree.gif)
